@@ -2,6 +2,7 @@
 
 A simple .NET 8 ASP.NET Core Web API that sends transactional emails using SendGrid.
 
+
 ## Features
 - Send automated notification emails
 - REST API endpoint
